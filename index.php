@@ -1,3 +1,8 @@
 <?php
-echo "Hallo eclipse mit Änderung";
+class test {
+    public function test()
+    {
+        echo "Hallo eclipse mit Änderung";    
+    }
+}
 ?>
